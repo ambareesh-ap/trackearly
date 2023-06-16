@@ -1,0 +1,23 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">xmoze_header</custom-type>
+    <custom-type translate="0">xmoze_footer</custom-type>
+    <custom-type translate="0">xmoze_megamenu</custom-type>
+    <custom-type translate="0">team</custom-type>
+    <custom-type translate="0">service</custom-type>
+    <custom-type translate="0">portfolio</custom-type>
+    <custom-type translate="0">job</custom-type>
+    <custom-type translate="0">xmoze_testimonial</custom-type>
+    <custom-type translate="0">case-study</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="0">service-category</taxonomy>
+    <taxonomy translate="0">service-tag</taxonomy>
+    <taxonomy translate="0">portfolio-category</taxonomy>
+    <taxonomy translate="0">portfolio-tag</taxonomy>
+    <taxonomy translate="0">job-category</taxonomy>
+    <taxonomy translate="0">job-tag</taxonomy>
+    <taxonomy translate="0">case-study-category</taxonomy>
+    <taxonomy translate="0">studies-tag</taxonomy>
+  </taxonomies>
+</wpml-config>
